@@ -1,6 +1,8 @@
 # videogamesalesanalysis
 Tableau public link: https://public.tableau.com/app/profile/aidan.carlisle1068/viz/VideoGameSales_16706182920680/GlobalSalesDash
+
 This project analyzes video game sales data from the Video Game Sales dataset on Kaggle.
+
 Objective
 
 The goal of this project is to gain insights into the video game industry and identify trends in sales. Specifically, I want to answer questions such as:
