@@ -29,6 +29,9 @@ Our analysis showed the following trends in video game sales:
     Different genres and publishers were more popular depending on the continent or countries.
     
 Files
+    
     video_game_sales.twbx - Tableau workbook with visualizations.
+    
     video_game_sales.csv - Raw Data
+    
     video_games_sales-clean.xlsx - Clean data
